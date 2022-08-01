@@ -29,9 +29,9 @@
 
 <img width="200px" src="https://i.imgur.com/YdZm30f.png"></a>
 
-- #### [3] **[Use CSS Code](chrome-extension://ogkoifddpkoabehfemkolflcjhklmkge/options.html "Use CSS Code").**
+- #### [3] **[Use CSS Code](https://github.com/LawOff/YouTubeFluent/blob/main/theme/style.css "Use CSS Code").**
 
-- #### [4] **[Use JS Code](chrome-extension://ogkoifddpkoabehfemkolflcjhklmkge/options.html "Use JS Code").**
+- #### [4] **[Use JS Code](https://github.com/LawOff/YouTubeFluent/blob/main/theme/script.js "Use JS Code").**
 
 
 ## Credits:
