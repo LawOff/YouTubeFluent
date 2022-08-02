@@ -16,7 +16,7 @@
 ---
 
 ## Video Tutorial:
-<table><tr><td><a href="https://youtu.be/yUj94z1VsKc"><img width="300px" src="https://i.imgur.com/z2JRyvh.png"></a></td>
+<table><tr><td><a href="https://youtu.be/yUj94z1VsKc"><img width="300px" src="https://i.imgur.com/1f5P5de.jpeg"></a></td>
 <td><a href="https://youtu.be/yUj94z1VsKc">How to have a MODERN YouTube Interface (2022) </a><br/>August 2, 2022</td></tr></table>
 
 ## Installation:
