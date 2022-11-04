@@ -1,7 +1,9 @@
 ---
 
-<h3 align="center">YouTube Fluent Theme</h3>
-
+<h3 align="center">YOUTUBE FLUENT THEME</h3>
+<div align="center">
+<img src="https://i.imgur.com/sEXa9Cr.jpg" />
+</div>
 <p align="center">
     <a href="https://www.youtube.com/channel/UCbfGHhyeHpKXF5rl1cRfvbg?sub_confirmation=1">
       <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
@@ -10,7 +12,7 @@
   </p>
 </p>
 </p>
-<p align="center"> How to have a MODERN YouTube Interface (2022)</p>
+<p align="center"> A Fluent Theme for YouTube, working with the latest Youtube ver.</p>
 
 ---
 
