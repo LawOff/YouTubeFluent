@@ -22,7 +22,7 @@
 
 ## Installation:
  
-- #### [1] **[Install the extension Tweaks for YouTube](https://chrome.google.com/webstore/detail/tweaks-for-youtube/ogkoifddpkoabehfemkolflcjhklmkge "Install the extension Tweaks for YouTube").**
+- #### [1] **Install the extension "Tweaks for YouTube": [Chrome](https://chrome.google.com/webstore/detail/tweaks-for-youtube/ogkoifddpkoabehfemkolflcjhklmkge "Tweaks for YouTube - Chrome Web Store") or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tweaks-for-youtube/ "Tweaks for YouTube - Firefox").**
 <img width="500px" src="https://i.imgur.com/kYF2ESb.png"></a>
 
 
